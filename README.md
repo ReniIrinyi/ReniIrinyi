@@ -7,4 +7,5 @@ and how much I've learned and implemented.
 people who are equally passionate about this discipline!
 - 💬 You can contact me in German, English or even Hungarian
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReniIrinyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReniIrinyi&lnags_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
