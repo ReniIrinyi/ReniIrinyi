@@ -1,7 +1,6 @@
 ### Hi there 👋  i´m Reni,
-- 🔭 I started learning JavaScript only a few months ago and now I'm very proud of my progress 
-and how much I've learned and implemented. 
-- 🌱 I’m currently learning React. 
+- 🔭 I’m currently learning Full Stack Webd Dvelopement(React, Redux, Node.js, MongoDB, GraphQL and TypeScript) at the [Full-Stack-Open](https://fullstackopen.com/en/) Course on the [University-of-Helsinki](https://www.helsinki.fi/en). 
+- 🌱 I started currently the #100DaysOfCode-Challenge
 - 😄 I really enjoy problem solving as it gives me great satisfaction when I find a solution to a complex problem.
 - 👯 I am very enthusiastic about coding and I want to work with
 people who are equally passionate about it!
