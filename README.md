@@ -9,4 +9,4 @@ people who are equally passionate about it!
 - 💬 You can contact me in German, English or Hungarian
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ReniIrinyi&lnags_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReniIrinyi&lnags_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
