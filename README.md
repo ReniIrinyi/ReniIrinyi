@@ -8,3 +8,4 @@
 people who are equally passionate about it!
 - 💬 You can contact me in German, English or Hungarian
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReniIrinyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
