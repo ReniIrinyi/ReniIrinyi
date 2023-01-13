@@ -8,5 +8,5 @@
 people who are equally passionate about it!
 - 💬 You can contact me in German, English or Hungarian
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReniIrinyi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReniIrinyi=anuraghazra&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
