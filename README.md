@@ -1,6 +1,6 @@
 ### Hi there 👋  i´m Reni,
 
-- 👯 I'm a Junior Software Developer and I'm currently doing an internship as a Full Stack Developer at CodeFrog GmbH. During my studies, my main focus was on Java, SpringBoot and Angular, and these are the languages/frameworks I use most in my current work.
+- 👯 I'm a Junior Software Developer and I'm currently doing an internship as a Full Stack Developer at Vizavy GmbH. During my studies, my main focus was on Java, SpringBoot and Angular, and these are the languages/frameworks I use most in my current work.
 - 🔭 I like to learn and try new things, and my private projects are a great way to do that. 
 - 😄 I mostly like working with Angular, TypeScript and Node.js. 
 - 💬 You can contact me in German, English or Hungarian
