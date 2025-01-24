@@ -4,4 +4,4 @@
 - 😄 I mostly like working with Angular, TypeScript and Node.js. 
 - 💬 You can contact me in German, English or Hungarian
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReniIrinyi&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReniIrinyi&langs_count=11&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
